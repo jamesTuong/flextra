@@ -1,0 +1,140 @@
+{
+  "Navigation": {
+    "home": "首页",
+    "translator": "翻译器"
+  },
+  "Hero": {
+    "title": "立即打破语言障碍",
+    "subtitle": "使用先进的AI技术在15+种语言之间翻译文本。快速、准确且完全免费使用。",
+    "cta": "开始翻译",
+    "viewDemo": "查看演示",
+    "stats": {
+      "languages": "语言",
+      "powered": "支持",
+      "free": "免费"
+    }
+  },
+  "Features": {
+    "title": "为每个人提供强大功能",
+    "subtitle": "在一个简单界面中获得快速、准确和安全翻译所需的一切。",
+    "items": {
+      "languages": {
+        "title": "15+种语言",
+        "description": "支持世界主要语言，包括英语、西班牙语、法语、德语、日语、韩语、中文、越南语等。"
+      },
+      "aiPowered": {
+        "title": "AI驱动",
+        "description": "先进的AI技术确保准确和上下文相关的翻译，理解细微差别和含义。"
+      },
+      "instantSwap": {
+        "title": "即时交换",
+        "description": "一键快速交换源语言和目标语言，实现双向翻译。"
+      },
+      "easyCopy": {
+        "title": "轻松复制",
+        "description": "即时将翻译文本复制到剪贴板，用于其他应用程序和文档。"
+      },
+      "privacyFirst": {
+        "title": "隐私优先",
+        "description": "您的文本得到安全处理，我们不存储或共享您的翻译数据。"
+      },
+      "mobileFriendly": {
+        "title": "移动友好",
+        "description": "响应式设计在桌面、平板电脑和移动设备上完美运行。"
+      }
+    }
+  },
+  "HowItWorks": {
+    "title": "工作原理",
+    "subtitle": "只需三个简单步骤即可获得准确翻译。无需注册。",
+    "steps": {
+      "enterText": {
+        "title": "输入文本",
+        "description": "在输入字段中键入或粘贴要翻译的文本。"
+      },
+      "selectLanguages": {
+        "title": "选择语言",
+        "description": "选择源语言和要翻译到的目标语言。"
+      },
+      "getTranslation": {
+        "title": "获取翻译",
+        "description": "点击翻译并获得即时的AI驱动翻译结果。"
+      }
+    }
+  },
+  "CTA": {
+    "badge": "准备翻译了吗？",
+    "title": "今天就开始打破语言障碍",
+    "subtitle": "加入数千名信任我们AI驱动翻译工具的用户，获得准确、快速和安全的翻译。",
+    "primaryButton": "立即试用 - 免费",
+    "secondaryButton": "了解更多",
+    "disclaimer": "无需注册 • 永久免费 • 隐私保护"
+  },
+  "Translator": {
+    "title": "AI翻译器",
+    "subtitle": "使用AI在语言之间翻译文本",
+    "from": "从",
+    "to": "到",
+    "placeholders": {
+      "input": "输入要翻译的文本...",
+      "output": "翻译将在此处显示..."
+    },
+    "buttons": {
+      "swap": "交换语言",
+      "translate": "翻译",
+      "translating": "翻译中...",
+      "copy": "复制"
+    },
+    "characters": "字符",
+    "errors": {
+      "enterText": "请输入要翻译的文本",
+      "differentLanguages": "请选择不同的源语言和目标语言",
+      "translationFailed": "翻译文本失败。请重试。",
+      "copyFailed": "复制文本失败"
+    },
+    "success": {
+      "copied": "已复制！",
+      "copiedDescription": "文本已复制到剪贴板"
+    }
+  },
+  "Definitions": {
+    "title": "\"{word}\"的定义",
+    "examplesTitle": "上下文示例",
+    "source": "来源"
+  },
+  "Footer": {
+    "description": "使用AI驱动的翻译技术打破语言障碍。快速、准确，对每个人都免费。",
+    "quickLinks": "快速链接",
+    "support": "支持",
+    "links": {
+      "translator": "翻译器",
+      "features": "功能",
+      "howItWorks": "工作原理",
+      "api": "API",
+      "helpCenter": "帮助中心",
+      "privacy": "隐私政策",
+      "terms": "服务条款",
+      "contact": "联系我们"
+    },
+    "copyright": "© 2024 AI Translator. 保留所有权利。使用Next.js和AI用❤️构建。"
+  },
+  "History": {
+    "title": "翻译历史",
+    "searchPlaceholder": "搜索翻译...",
+    "clearAll": "清除全部",
+    "emptyTitle": "暂无翻译",
+    "emptyDescription": "开始翻译文本后，您的翻译历史将显示在这里。",
+    "noResults": "没有匹配的翻译",
+    "noResultsDescription": "尝试调整搜索词以找到您要查找的内容。",
+    "restore": "恢复",
+    "copy": "复制",
+    "delete": "删除",
+    "copied": "已复制！",
+    "copiedDescription": "翻译已复制到剪贴板",
+    "restored": "翻译已恢复",
+    "restoredDescription": "翻译已加载到翻译器中",
+    "cleared": "历史已清除",
+    "clearedDescription": "所有翻译历史已被删除",
+    "copyFailed": "复制翻译失败"
+  }
+}

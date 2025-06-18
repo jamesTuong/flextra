@@ -1,0 +1,141 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "translator": "Translator"
+  },
+  "Hero": {
+    "title": "Break Language Barriers Instantly",
+    "subtitle": "Translate text between 15+ languages using advanced AI technology. Fast, accurate, and completely free to use.",
+    "cta": "Start Translating",
+    "viewDemo": "View Demo",
+    "stats": {
+      "languages": "Languages",
+      "powered": "Powered",
+      "free": "To Use"
+    },
+    "translate":"Translate"
+  },
+  "Features": {
+    "title": "Powerful Features for Everyone",
+    "subtitle": "Everything you need for fast, accurate, and secure translation in one simple interface.",
+    "items": {
+      "languages": {
+        "title": "15+ Languages",
+        "description": "Support for major world languages including English, Spanish, French, German, Japanese, Korean, Chinese, Vietnamese, and more."
+      },
+      "aiPowered": {
+        "title": "AI-Powered",
+        "description": "Advanced AI technology ensures accurate and contextual translations that understand nuance and meaning."
+      },
+      "instantSwap": {
+        "title": "Instant Swap",
+        "description": "Quickly swap source and target languages with one click to translate in both directions."
+      },
+      "easyCopy": {
+        "title": "Easy Copy",
+        "description": "Copy translated text to clipboard instantly for use in other applications and documents."
+      },
+      "privacyFirst": {
+        "title": "Privacy First",
+        "description": "Your text is processed securely and we don't store or share your translation data."
+      },
+      "mobileFriendly": {
+        "title": "Mobile Friendly",
+        "description": "Responsive design works perfectly on desktop, tablet, and mobile devices."
+      }
+    }
+  },
+  "HowItWorks": {
+    "title": "How It Works",
+    "subtitle": "Get accurate translations in just three simple steps. No registration required.",
+    "steps": {
+      "enterText": {
+        "title": "Enter Your Text",
+        "description": "Type or paste the text you want to translate into the input field."
+      },
+      "selectLanguages": {
+        "title": "Select Languages",
+        "description": "Choose your source language and the target language you want to translate to."
+      },
+      "getTranslation": {
+        "title": "Get Translation",
+        "description": "Click translate and get instant, AI-powered translation results."
+      }
+    }
+  },
+  "CTA": {
+    "badge": "Ready to translate?",
+    "title": "Start Breaking Language Barriers Today",
+    "subtitle": "Join thousands of users who trust our AI-powered translation tool for accurate, fast, and secure translations.",
+    "primaryButton": "Try It Now - It's Free",
+    "secondaryButton": "Learn More",
+    "disclaimer": "No registration required • Free forever • Privacy protected"
+  },
+  "Translator": {
+    "title": "Flexibal AI Translator",
+    "subtitle": "Translate text between languages using AI",
+    "from": "From",
+    "to": "To",
+    "placeholders": {
+      "input": "Enter text to translate...",
+      "output": "Translation will appear here..."
+    },
+    "buttons": {
+      "swap": "Swap Languages",
+      "translate": "Translate",
+      "translating": "Translating...",
+      "copy": "Copy"
+    },
+    "characters": "characters",
+    "errors": {
+      "enterText": "Please enter text to translate",
+      "differentLanguages": "Please select different source and target languages",
+      "translationFailed": "Failed to translate text. Please try again.",
+      "copyFailed": "Failed to copy text"
+    },
+    "success": {
+      "copied": "Copied!",
+      "copiedDescription": "Text copied to clipboard"
+    }
+  },
+  "Definitions": {
+    "title": "Definitions for \"{word}\"",
+    "examplesTitle": "Examples in context",
+    "source": "Source"
+  },
+  "Footer": {
+    "description": "Breaking language barriers with AI-powered translation technology. Fast, accurate, and free for everyone.",
+    "quickLinks": "Quick Links",
+    "support": "Support",
+    "links": {
+      "translator": "Translator",
+      "features": "Features",
+      "howItWorks": "How It Works",
+      "api": "API",
+      "helpCenter": "Help Center",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "contact": "Contact Us"
+    },
+    "copyright": "© 2024 AI Translator. All rights reserved. Built with ❤️ using Next.js and AI."
+  },
+  "History": {
+    "title": "Translation History",
+    "searchPlaceholder": "Search translations...",
+    "clearAll": "Clear All",
+    "emptyTitle": "No translations yet",
+    "emptyDescription": "Your translation history will appear here after you start translating text.",
+    "noResults": "No matching translations",
+    "noResultsDescription": "Try adjusting your search terms to find what you're looking for.",
+    "restore": "Restore",
+    "copy": "Copy",
+    "delete": "Delete",
+    "copied": "Copied!",
+    "copiedDescription": "Translation copied to clipboard",
+    "restored": "Translation Restored",
+    "restoredDescription": "The translation has been loaded into the translator",
+    "cleared": "History Cleared",
+    "clearedDescription": "All translation history has been removed",
+    "copyFailed": "Failed to copy translation"
+  }
+}

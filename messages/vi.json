@@ -1,0 +1,140 @@
+{
+  "Navigation": {
+    "home": "Trang chủ",
+    "translator": "Dịch thuật"
+  },
+  "Hero": {
+    "title": "Phá vỡ rào cản ngôn ngữ ngay lập tức",
+    "subtitle": "Dịch văn bản giữa hơn 15 ngôn ngữ bằng công nghệ AI tiên tiến. Nhanh chóng, chính xác và hoàn toàn miễn phí.",
+    "cta": "Bắt đầu dịch",
+    "viewDemo": "Xem demo",
+    "stats": {
+      "languages": "Ngôn ngữ",
+      "powered": "Hỗ trợ",
+      "free": "Miễn phí"
+    }
+  },
+  "Features": {
+    "title": "Tính năng mạnh mẽ cho mọi người",
+    "subtitle": "Mọi thứ bạn cần để dịch thuật nhanh chóng, chính xác và an toàn trong một giao diện đơn giản.",
+    "items": {
+      "languages": {
+        "title": "Hơn 15 ngôn ngữ",
+        "description": "Hỗ trợ các ngôn ngữ chính trên thế giới bao gồm tiếng Anh, Tây Ban Nha, Pháp, Đức, Nhật, Hàn, Trung, Việt và nhiều hơn nữa."
+      },
+      "aiPowered": {
+        "title": "Hỗ trợ AI",
+        "description": "Công nghệ AI tiên tiến đảm bảo bản dịch chính xác và phù hợp ngữ cảnh, hiểu được sắc thái và ý nghĩa."
+      },
+      "instantSwap": {
+        "title": "Hoán đổi tức thì",
+        "description": "Nhanh chóng hoán đổi ngôn ngữ nguồn và đích chỉ với một cú nhấp chuột để dịch theo cả hai hướng."
+      },
+      "easyCopy": {
+        "title": "Sao chép dễ dàng",
+        "description": "Sao chép văn bản đã dịch vào clipboard ngay lập tức để sử dụng trong các ứng dụng và tài liệu khác."
+      },
+      "privacyFirst": {
+        "title": "Ưu tiên riêng tư",
+        "description": "Văn bản của bạn được xử lý an toàn và chúng tôi không lưu trữ hoặc chia sẻ dữ liệu dịch thuật của bạn."
+      },
+      "mobileFriendly": {
+        "title": "Thân thiện với di động",
+        "description": "Thiết kế responsive hoạt động hoàn hảo trên máy tính để bàn, máy tính bảng và thiết bị di động."
+      }
+    }
+  },
+  "HowItWorks": {
+    "title": "Cách thức hoạt động",
+    "subtitle": "Nhận bản dịch chính xác chỉ trong ba bước đơn giản. Không cần đăng ký.",
+    "steps": {
+      "enterText": {
+        "title": "Nhập văn bản",
+        "description": "Gõ hoặc dán văn bản bạn muốn dịch vào trường nhập liệu."
+      },
+      "selectLanguages": {
+        "title": "Chọn ngôn ngữ",
+        "description": "Chọn ngôn ngữ nguồn và ngôn ngữ đích bạn muốn dịch sang."
+      },
+      "getTranslation": {
+        "title": "Nhận bản dịch",
+        "description": "Nhấp dịch và nhận kết quả dịch thuật tức thì bằng AI."
+      }
+    }
+  },
+  "CTA": {
+    "badge": "Sẵn sàng dịch?",
+    "title": "Bắt đầu phá vỡ rào cản ngôn ngữ ngay hôm nay",
+    "subtitle": "Tham gia cùng hàng nghìn người dùng tin tưởng công cụ dịch thuật AI của chúng tôi để có bản dịch chính xác, nhanh chóng và an toàn.",
+    "primaryButton": "Thử ngay - Miễn phí",
+    "secondaryButton": "Tìm hiểu thêm",
+    "disclaimer": "Không cần đăng ký • Miễn phí mãi mãi • Bảo vệ quyền riêng tư"
+  },
+  "Translator": {
+    "title": "Trình dịch AI linh hoạt",
+    "subtitle": "Dịch văn bản giữa các ngôn ngữ bằng AI",
+    "from": "Từ",
+    "to": "Đến",
+    "placeholders": {
+      "input": "Nhập văn bản cần dịch...",
+      "output": "Bản dịch sẽ xuất hiện ở đây..."
+    },
+    "buttons": {
+      "swap": "Hoán đổi ngôn ngữ",
+      "translate": "Dịch",
+      "translating": "Đang dịch...",
+      "copy": "Sao chép"
+    },
+    "characters": "ký tự",
+    "errors": {
+      "enterText": "Vui lòng nhập văn bản cần dịch",
+      "differentLanguages": "Vui lòng chọn ngôn ngữ nguồn và đích khác nhau",
+      "translationFailed": "Không thể dịch văn bản. Vui lòng thử lại.",
+      "copyFailed": "Không thể sao chép văn bản"
+    },
+    "success": {
+      "copied": "Đã sao chép!",
+      "copiedDescription": "Văn bản đã được sao chép vào clipboard"
+    }
+  },
+  "Definitions": {
+    "title": "Định nghĩa cho \"{word}\"",
+    "examplesTitle": "Ví dụ trong ngữ cảnh",
+    "source": "Nguồn"
+  },
+  "Footer": {
+    "description": "Phá vỡ rào cản ngôn ngữ với công nghệ dịch thuật AI. Nhanh chóng, chính xác và miễn phí cho mọi người.",
+    "quickLinks": "Liên kết nhanh",
+    "support": "Hỗ trợ",
+    "links": {
+      "translator": "Trình dịch",
+      "features": "Tính năng",
+      "howItWorks": "Cách hoạt động",
+      "api": "API",
+      "helpCenter": "Trung tâm trợ giúp",
+      "privacy": "Chính sách bảo mật",
+      "terms": "Điều khoản dịch vụ",
+      "contact": "Liên hệ"
+    },
+    "copyright": "© 2024 AI Translator. Tất cả quyền được bảo lưu. Được xây dựng với ❤️ sử dụng Next.js và AI."
+  },
+   "History": {
+    "title": "Lịch sử dịch thuật",
+    "searchPlaceholder": "Tìm kiếm bản dịch...",
+    "clearAll": "Xóa tất cả",
+    "emptyTitle": "Chưa có bản dịch nào",
+    "emptyDescription": "Lịch sử dịch thuật của bạn sẽ xuất hiện ở đây sau khi bạn bắt đầu dịch văn bản.",
+    "noResults": "Không tìm thấy bản dịch phù hợp",
+    "noResultsDescription": "Thử điều chỉnh từ khóa tìm kiếm để tìm thấy những gì bạn đang tìm kiếm.",
+    "restore": "Khôi phục",
+    "copy": "Sao chép",
+    "delete": "Xóa",
+    "copied": "Đã sao chép!",
+    "copiedDescription": "Bản dịch đã được sao chép vào clipboard",
+    "restored": "Đã khôi phục bản dịch",
+    "restoredDescription": "Bản dịch đã được tải vào trình dịch",
+    "cleared": "Đã xóa lịch sử",
+    "clearedDescription": "Tất cả lịch sử dịch thuật đã được xóa",
+    "copyFailed": "Không thể sao chép bản dịch"
+  }
+}
