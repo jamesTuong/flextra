@@ -40,14 +40,6 @@ export function CTA() {
                 <ArrowRight className="ml-2 h-4 w-4" />
               </Link>
             </Button>
-
-            <Button
-              variant="outline"
-              size="lg"
-              className="border-white text-white hover:bg-white hover:text-blue-600"
-            >
-              {t("secondaryButton")}
-            </Button>
           </div>
 
           <p className="mt-6 text-sm text-blue-200 dark:text-blue-300">
