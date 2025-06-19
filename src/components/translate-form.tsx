@@ -119,7 +119,7 @@ export function TranslationForm() {
     setTranslatedText(item.translatedText);
     setSourceLang(item.sourceLang);
     setTargetLang(item.targetLang);
-    setDefinitions(null); // Clear definitions when loading from history
+    setDefinitions(null);
   };
 
   return (

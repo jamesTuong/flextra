@@ -2,7 +2,7 @@
 
 import { ArrowRight, Globe } from "lucide-react";
 import Link from "next/link";
-import { useLocale,useTranslations } from "next-intl";
+import { useLocale, useTranslations } from "next-intl";
 
 import { Button } from "@/components/ui/button";
 
@@ -12,7 +12,6 @@ export function CTA() {
 
   return (
     <section className="relative overflow-hidden bg-gradient-to-br from-blue-600 to-purple-700 py-20 dark:from-blue-800 dark:to-purple-900">
-      {/* Background decoration */}
       <div className="bg-grid-white/10 absolute inset-0 [mask-image:linear-gradient(0deg,white,rgba(255,255,255,0.6))] dark:[mask-image:linear-gradient(0deg,black,rgba(0,0,0,0.6))]" />
 
       <div className="relative container mx-auto px-4">

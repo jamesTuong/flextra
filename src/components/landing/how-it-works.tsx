@@ -1,6 +1,6 @@
 "use client";
 
-import { Languages, Sparkles,Type } from "lucide-react";
+import { Languages, Sparkles, Type } from "lucide-react";
 import { useTranslations } from "next-intl";
 
 export function HowItWorks() {

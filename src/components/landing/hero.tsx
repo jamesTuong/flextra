@@ -1,8 +1,8 @@
 "use client";
 
-import { ArrowRight, Globe, Shield,Zap } from "lucide-react";
+import { ArrowRight, Globe, Shield, Zap } from "lucide-react";
 import Link from "next/link";
-import { useLocale,useTranslations } from "next-intl";
+import { useLocale, useTranslations } from "next-intl";
 
 import { Button } from "@/components/ui/button";
 

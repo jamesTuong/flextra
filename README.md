@@ -61,7 +61,7 @@ Easily deploy your Next.js app with <a href="https://vercel.com/">Vercel</a> by 
 ### 2. Install dependencies
 
 ```bash
-npm install
+bun install
 ```
 
 ### 3. Set up environment variables
@@ -79,7 +79,7 @@ npm run prepare
 You can start the server using this command:
 
 ```bash
-npm run dev
+bun run dev
 ```
 
 and open http://localhost:3000/ to see this app.
@@ -127,9 +127,3 @@ To contribute, please follow these steps:
 3. Make your changes, and commit them.
 4. Push your changes to the forked repository.
 5. Create a pull request.
-
-## ❤️ Support
-
-If you liked the project, I will appreciate if you leave a star. 🌟😊
-
-Made by <a href="https://michalskolak.netlify.app/">Michał Skolak</a> 

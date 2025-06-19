@@ -30,7 +30,6 @@ export const useTranslationHistoryStore = create<TranslationHistoryState>()(
   persist(
     immer((set, get) => ({
       history: [],
-
       addToHistory: (sourceText, translatedText, sourceLang, targetLang) => {
         set((state) => {
           const newItem: TranslationHistoryItem = {
@@ -85,34 +84,6 @@ export const useTranslationHistoryStore = create<TranslationHistoryState>()(
       name: "translation-history-storage",
       storage: createJSONStorage(() => localStorage),
       partialize: (state) => ({ history: state.history }),
-      // serialize: (state: { state: TranslationHistoryState }) => {
-      //   return JSON.stringify({
-      //     ...state,
-      //     state: {
-      //       ...state.state,
-      //       history: state.state.history.map(
-      //         (item: TranslationHistoryItem) => ({
-      //           ...item,
-      //           timestamp: item.timestamp.toISOString(),
-      //         }),
-      //       ),
-      //     },
-      //   });
-      // },
-      // Custom deserialization to handle Date objects
-      // deserialize: (str: string) => {
-      //   const parsed = JSON.parse(str);
-      //   return {
-      //     ...parsed,
-      //     state: {
-      //       ...parsed.state,
-      //       history: parsed.state.history.map((item: any) => ({
-      //         ...item,
-      //         timestamp: new Date(item.timestamp),
-      //       })),
-      //     },
-      //   };
-      // },
     },
   ),
 );

@@ -3,7 +3,7 @@
 import { Globe, Menu, X } from "lucide-react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useLocale,useTranslations } from "next-intl";
+import { useLocale, useTranslations } from "next-intl";
 import { useState } from "react";
 
 import { ThemeToggle } from "@/components/theme-toggle";
